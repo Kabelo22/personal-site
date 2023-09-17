@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Carlito", sans-serif;
+}
+
+.hero,
+.about {
+  background-color: #f4f1e8;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projects .contact {
+  background-color: #085784;
+}
+
+.logo-image {
+  width: 50px;
+}
+
+h1 {
+  font-family: "Radley", serif;
+  color: #085784;
+}
+
+span {
+  color: #bd8f53;
+}
+
+.heading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
